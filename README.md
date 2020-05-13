@@ -6,5 +6,7 @@
    	Python<br>
 3. Used Data Set :<br>
  	https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+  
+  Neuranel net implemetation
  
 
